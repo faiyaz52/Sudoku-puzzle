@@ -1,6 +1,6 @@
 Sudoku Puzzle Game
 
-This is real time Sudoku Puzzle Solve Aplication
+This is real time Sudoku Puzzle Solver Aplication
 
 website link :https://sudoku-puzzle-94c14.web.app
 
