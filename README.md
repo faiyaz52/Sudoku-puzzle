@@ -1,4 +1,4 @@
-Sudoku Puzzle 
+Sudoku Puzzle Game
 
 This is real time Sudoku Puzzle Solve Aplication
 
